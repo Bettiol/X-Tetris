@@ -8,5 +8,7 @@ Il gioco prevede tre diverse modalità:
 - Multi Player
 - Player vs CPU
 
+**_Versione 1.00_**
+
  Creato da Bettiol Luca (890424) e Brognera Enrico (890406)
  
